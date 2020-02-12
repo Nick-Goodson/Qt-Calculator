@@ -1,3 +1,5 @@
 # Project 2
 
-This project repo contains the 4 function calculator using QT. 
+This project repo contains a 4 function calculator using QT. 
+
+![Running Screenshot](https://github.com/myuimu/Qt-Calculator/blob/master/screenshot.PNG)
