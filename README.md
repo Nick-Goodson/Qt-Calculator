@@ -1,4 +1,4 @@
-# Project 2
+# Qt Calculator
 
 This project repo contains a 4 function calculator using QT. 
 
